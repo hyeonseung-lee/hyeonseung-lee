@@ -41,7 +41,7 @@
 <br/>
     <div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ Projects </h2> 
-    <div style="margin: 0 auto; text-align: center;" align= "center">
+    <div style="margin: 0 auto; text-align: center;">
 </div>
 <table class="tg"><thead>
   <tr>
@@ -59,7 +59,7 @@
     <br/>
      <div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎖️ Awards/Certificates </h2> 
-    <div style="margin: 0 auto; text-align: center;" align= "center">
+    <div style="margin: 0 auto;" align= "center">
     </div>
 <d>🥈 최우수상</d>
  
@@ -67,7 +67,7 @@
 <br/>
 <div align= "center">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Tech Stacks </h2> 
-<div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<div style="margin: 0 auto;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -85,7 +85,7 @@
 
 <div align= "center">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> 
-<div style="margin: 0 auto; text-align: center;" align= "center">
+<div style="margin: 0 auto;">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
       <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
