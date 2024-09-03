@@ -1,73 +1,17 @@
 ### Hi there 👋
 
-<div align= "center">
-    </div>
-    <div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Experience & Social Activity </h2> 
-    <div style="margin: 0 auto; text-align: center;" align= "center">
-          </div>
-        <table class="tg"><thead>
-  <tr>
-    <th class="tg-c3ow">소속 및 단체</th>
-    <th class="tg-c3ow">활동 기간</th>
-    <th class="tg-c3ow">내용</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">국민대학교</td>
-    <td class="tg-c3ow">2019.03 ~ </td>
-    <td class="tg-c3ow">국민대학교 소프트웨어학부</td>
-  </tr>
-    
-  <tr>
-    <td class="tg-c3ow">소프트웨어 마에스트로 13기</td>
-    <td class="tg-c3ow">2022.04 ~ 2022.12</td>
-    <td class="tg-c3ow">미니프로젝트 팀16, 메인프로젝트 팀13</td>
-  </tr>
-  
-  <tr>
-    <td class="tg-c3ow">IBK기업은행 청년인턴</td>
-    <td class="tg-c3ow">2023.07 ~ 2023.08</td>
-    <td class="tg-c3ow">IT금융개발부</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">M2Cloud</td>
-    <td class="tg-c3ow">2024.03 ~ </td>
-    <td class="tg-c3ow">SW개발 프리랜싱</td>
-  </tr>
-</tbody>
-</table>
-</div>
-<br/>
-    <div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ Projects </h2> 
-    <div style="margin: 0 auto; text-align: center;">
-</div>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-c3ow">기간</th>
-    <th class="tg-c3ow">내용</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">2022.03 ~ 2022.12</td>
-    <td class="tg-c3ow">?????'<a href="https://github.com/2022HUE/2022ESWContest_robot_2005">HUE</a>' 모션 개발</td>
-  </tr>
-</tbody>
-</table>
-    </div>
-    <br/>
-     <div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎖️ Awards/Certificates </h2> 
-    <div style="margin: 0 auto;" align= "center">
-    </div>
-<d>🥈 최우수상</d>
+### Team || Group || Organization
+- 2019.03 ~  : Kookmin University, Dept of Computer Science
+- 2019.09 ~  : WINK (Web IN Kookmin), Kookmin University Web Development Academic Club
+- 2022.04 ~ 2022.12 : Software Maestro 13th
+- 2023.07 ~ 2023.08 : IBK (Industrial Bank of Korea) IT Group Intern
+- 2024.03 ~ : M2Cloud SW Development Freelancer
+
  
 <d></d>
 <br/>
 <div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Techs </h2> 
-    <div style="margin: 0 auto;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <h3>📚 Frameworks, Platforms and Libraries</h3>
           <h6>FrontEnd</h6>
           <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
