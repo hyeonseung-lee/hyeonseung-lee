@@ -6,8 +6,6 @@
 - 2022.04 ~ 2022.12 : Software Maestro 13th
 - 2023.07 ~ 2023.08 : IBK (Industrial Bank of Korea) IT Group Intern
 - 2024.03 ~ : M2Cloud SW Development Freelancer
-
- 
 <d></d>
 <br/>
 <div>
