@@ -129,9 +129,9 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 <br/>
+<br/>
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2> 
+
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonseung-lee&count_bg=%2379C83D&title_bg=%23000000&icon=visualstudio.svg&icon_color=%230016FF&title=hits&edge_flat=false"/>
 </a>
-<br/>
