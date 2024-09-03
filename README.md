@@ -15,33 +15,8 @@
 <tbody>
   <tr>
     <td class="tg-c3ow">국민대학교</td>
-    <td class="tg-c3ow">2022.03 ~</td>
+    <td class="tg-c3ow">2019.03 ~</td>
     <td class="tg-c3ow">국민대학교 소프트웨어학부 재학</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">KOSS</td>
-    <td class="tg-0pky">2022.03 ~</td>
-    <td class="tg-0pky">오픈소스 소프트웨어 학회 KOSS 운영진 및 홍보부장</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">패치 (PATCH)</td>
-    <td class="tg-nrix">2022.03 ~ 2022.11</td>
-    <td class="tg-0pky">국민대학교 소프트웨어융합대학 제6대 학생회 기획부</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">(주) 콘캣</td>
-    <td class="tg-0lax">2022.12 ~ 2023.06</td>
-    <td class="tg-baqh">FrontEnd 인턴 개발자</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">NOW SOPT 34th</td>
-    <td class="tg-0lax">2024.03 ~ 2024.07</td>
-    <td class="tg-0lax">대학생 연합 IT 벤처 창업 동아리 SOPT 34th Web Frontend</td>
-  </tr>
- <tr>
-    <td class="tg-0lax">GDSC Core</td>
-    <td class="tg-0lax">2024.08 ~ </td>
-    <td class="tg-0lax">Google Developer Student Clubs Core Member</td>
   </tr>
 </tbody>
 </table>
@@ -59,23 +34,7 @@
 <tbody>
   <tr>
     <td class="tg-c3ow">2022.03 ~ 2022.12</td>
-    <td class="tg-c3ow">제20회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 '<a href="https://github.com/2022HUE/2022ESWContest_robot_2005">HUE</a>' 모션 개발</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">2022.05 ~ 2022.08</td>
-    <td class="tg-0pky">영상 인식 기반 젓가락 교정 애플리케이션 '<a href="https://github.com/2022HUE/Firstick-APP">첫가락</a>' 영상 인식 개발 및 FE 리팩토링</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">2023.06 ~ 2023.11</td>
-    <td class="tg-nrix">오픈소스 매니지먼트 플랫폼 '<a href="https://github.com/AgainIoT/Open-Set-Go">Open-Set-GO</a>' FE 개발</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2024.05 ~ 2024.05</td>
-    <td class="tg-0lax">성향 퀴즈 문답을 통해 상대방을 알아가는 서비스 '<a href="https://github.com/SOPT-Hackathon-Web4/sopkathon-client">ToZero</a>' FE 개발</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2024.06 ~ 2024.07</td>
-    <td class="tg-0lax">간편하게 소규모 공연을 등록하고 관리할 수 있는 티켓 예매 플랫폼 '<a href="https://github.com/TEAM-BEAT/BEAT-Client">BEAT</a>' FE 개발</td>
+    <td class="tg-c3ow">?????'<a href="https://github.com/2022HUE/2022ESWContest_robot_2005">HUE</a>' 모션 개발</td>
   </tr>
 </tbody>
 </table>
@@ -85,11 +44,8 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎖️ Awards/Certificates </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
     </div>
-<d>🥈 제20회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 우수상</d>
-     <br/>
-<d>🏅 한국소프트웨어종합학술대회(KSC2023) 최우수논문상-한국정보과학 회장상</d>
-
-<d>🥈 2024 SOPT 34기 웹/어플리케이션 장기해커톤 AppJam 우수상</d>    
+<d>🥈 최우수상</d>
+ 
 <d></d>
 <br/>
 <div align= "center">
