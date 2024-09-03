@@ -95,6 +95,8 @@
           <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green">
           <br/>
           <br/>
+          <br/>
+          <br/>
           <h3>🤖 Artificial Intelligence and Bots</h3>
           <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
           <br/>
