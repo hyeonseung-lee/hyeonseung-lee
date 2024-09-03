@@ -92,4 +92,4 @@
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonseung-lee&count_bg=%2379C83D&title_bg=%23000000&icon=visualstudio.svg&icon_color=%230016FF&title=hits&edge_flat=false"/>
 </a>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?logo=instagram&link=https://www.instagram.com/leeh8g/)](https://www.instagram.com/leeh8g/)
+<a href="https://www.instagram.com/leeh8g/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
