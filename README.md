@@ -15,8 +15,26 @@
 <tbody>
   <tr>
     <td class="tg-c3ow">국민대학교</td>
-    <td class="tg-c3ow">2019.03 ~</td>
-    <td class="tg-c3ow">국민대학교 소프트웨어학부 재학</td>
+    <td class="tg-c3ow">2019.03 ~ </td>
+    <td class="tg-c3ow">국민대학교 소프트웨어학부</td>
+  </tr>
+    
+  <tr>
+    <td class="tg-c3ow">소프트웨어 마에스트로 13기</td>
+    <td class="tg-c3ow">2022.04 ~ 2022.12</td>
+    <td class="tg-c3ow">미니프로젝트 팀16, 메인프로젝트 팀13</td>
+  </tr>
+  
+  <tr>
+    <td class="tg-c3ow">IBK기업은행 청년인턴</td>
+    <td class="tg-c3ow">2023.07 ~ 2023.08</td>
+    <td class="tg-c3ow">IT금융개발부</td>
+  </tr>
+
+    <tr>
+    <td class="tg-c3ow">M2Cloud</td>
+    <td class="tg-c3ow">2024.03 ~ </td>
+    <td class="tg-c3ow">SW개발 프리랜싱</td>
   </tr>
 </tbody>
 </table>
@@ -79,11 +97,7 @@
 
     
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> 
-
-
-
-
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Statistics </h2> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseung-lee&count_private=true&show_icons=true&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseung-lee&layout=compact&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgustmd3590)](https://solved.ac/dlgustmd3590/)
