@@ -163,21 +163,14 @@
           <br/>
       </div>
 </div>
-
-
-    
-
+<br/>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 Statistics </h2> 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseung-lee&count_private=true&show_icons=true&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseung-lee&layout=compact&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)
-
+<br/>
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧐 Algorithm </h2> 
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgustmd3590)](https://solved.ac/dlgustmd3590/)
-
-
+<br/>
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💬 Social </h2> 
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
@@ -186,8 +179,10 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<br/>
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2> 
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonseung-lee&count_bg=%2379C83D&title_bg=%23000000&icon=visualstudio.svg&icon_color=%230016FF&title=hits&edge_flat=false"/>
 </a>
+<br/>
