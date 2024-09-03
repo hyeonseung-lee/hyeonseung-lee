@@ -4,7 +4,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Experience & Social Activity </h2> 
-    <div style="margin: 0 auto; text-align: center;" align= "center">
+    <div style="margin: 0 auto;" align= "center">
           </div>
         <table class="tg"><thead>
   <tr>
