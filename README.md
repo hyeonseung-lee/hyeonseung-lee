@@ -87,8 +87,7 @@
       <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> 
       <div style="margin: 0 auto;">
           <h3>🤖 Artificial Intelligence and Bots</h3>
-          <img src="[https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)">
-          
+          <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
       </div>
 </div>
 
