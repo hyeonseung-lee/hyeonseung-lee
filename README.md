@@ -2,7 +2,7 @@
 
 <div align= "center">
     </div>
-    <div align= "center">
+    <div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Experience & Social Activity </h2> 
     <div style="margin: 0 auto;" align= "center">
           </div>
