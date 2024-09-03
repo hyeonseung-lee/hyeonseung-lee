@@ -78,7 +78,7 @@
 <br/>
 
 <div>
-      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> 
+      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tools </h2> 
       <div style="margin: 0 auto;">
           <h3>IDEs/Editors</h3>
           <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
