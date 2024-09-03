@@ -65,8 +65,8 @@
  
 <d></d>
 <br/>
-<div align= "center">
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Tech Stacks </h2> 
+<div>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Techs </h2> 
 <div style="margin: 0 auto;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -83,7 +83,7 @@
 </div>
 <br/>
 
-<div align= "center">
+<div>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> 
 <div style="margin: 0 auto;">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
