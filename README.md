@@ -11,8 +11,8 @@
 <d></d>
 <br/>
 <div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Techs </h2> 
-          <h3>📚 Frameworks, Platforms and Libraries</h3>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Techs </h2> 
+          <h3>Frameworks, Platforms and Libraries</h3>
           <h6>FrontEnd</h6>
           <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
           <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -35,23 +35,23 @@
           <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
           <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green">
           <br/>
-          <h3>🤖 Artificial Intelligence and Bots</h3>
+          <h3>Artificial Intelligence and Bots</h3>
           <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
           <br/>
-          <h3>🖥️ ML/DL</h3>
+          <h3>ML/DL</h3>
           <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
           <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
           <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
           <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
           <br/>
-          <h3>💾 Databases</h3>
+          <h3>Databases</h3>
           <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
           <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
           <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
           <br/>
-          <h3>📋 Languages</h3>
+          <h3>Languages</h3>
           <h6>Web</h6>
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
           <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
@@ -65,13 +65,13 @@
           <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
           <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
           <br/>
-          <h3>☁️ Hosting/SaaS</h3>
+          <h3>Hosting/SaaS</h3>
           <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
           <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
           <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
           <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
           <br/>
-          <h3>🎋 ORM</h3>
+          <h3>ORM</h3>
           <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
       </div>
 </div>
@@ -80,24 +80,24 @@
 <div>
       <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> 
       <div style="margin: 0 auto;">
-          <h3>💻 IDEs/Editors</h3>
+          <h3>IDEs/Editors</h3>
           <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
           <br/>
-          <h3>🕓 Version Control</h3>
+          <h3>Version Control</h3>
           <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
           <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
           <br/>
-          <h3>🏢 Office</h3>
+          <h3>Office</h3>
           <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
           <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
           <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
           <br/>
-          <h3>🎛️ Operating System</h3>
+          <h3>Operating System</h3>
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
           <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white0">
           <br/>
-          <h3>🥅 Other</h3>
+          <h3>Other</h3>
           <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
           <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
           <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
@@ -108,19 +108,19 @@
       </div>
 </div>
 <br/>
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 Statistics </h2> 
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Statistics </h2> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseung-lee&count_private=true&show_icons=true&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseung-lee&layout=compact&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧐 Algorithm </h2> 
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Algorithm </h2> 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgustmd3590)](https://solved.ac/dlgustmd3590/)
 
 <br/>
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💬 Social </h2> 
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Social </h2> 
 <div style="margin: 0 auto;">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
