@@ -179,8 +179,7 @@
 
 
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2> 
-<h3>💬 Social</h3>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💬 Social </h2> 
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white">
