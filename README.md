@@ -30,8 +30,7 @@
     <td class="tg-c3ow">2023.07 ~ 2023.08</td>
     <td class="tg-c3ow">IT금융개발부</td>
   </tr>
-
-    <tr>
+  <tr>
     <td class="tg-c3ow">M2Cloud</td>
     <td class="tg-c3ow">2024.03 ~ </td>
     <td class="tg-c3ow">SW개발 프리랜싱</td>
