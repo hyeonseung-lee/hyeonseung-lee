@@ -88,7 +88,7 @@
       <div style="margin: 0 auto;">
           <h3>🤖 Artificial Intelligence and Bots</h3>
           
-          [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)]
+          [![ChatGPT]](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
           
       </div>
 </div>
