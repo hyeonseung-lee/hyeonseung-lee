@@ -66,27 +66,9 @@
 <d></d>
 <br/>
 <div>
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Techs </h2> 
-<div style="margin: 0 auto;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-      <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
-      <br/><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white">
-    <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-      </div>
-</div>
-<br/>
-
-<div>
-      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> 
-      <div style="margin: 0 auto;">
-          <h3>📚 Frameworks, Platforms and Libraries</h3>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Techs </h2> 
+    <div style="margin: 0 auto;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+              <h3>📚 Frameworks, Platforms and Libraries</h3>
           <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green">
           <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
           <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
@@ -139,6 +121,17 @@
           <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
           <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
           <br/>
+                  <h3>🎋 ORM</h3>
+          <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+          <br/>
+      </div>
+</div>
+<br/>
+
+<div>
+      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> 
+      <div style="margin: 0 auto;">
+
           <h3>💻 IDEs/Editors</h3>
           <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
           <br/>
@@ -151,9 +144,6 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
           <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white0">
-          <br/>
-          <h3>🎋 ORM</h3>
-          <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
           <br/>
           <h3>🕓 Version Control</h3>
           <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
