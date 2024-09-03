@@ -68,7 +68,7 @@
 <div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Techs </h2> 
     <div style="margin: 0 auto;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-              <h3>📚 Frameworks, Platforms and Libraries</h3>
+          <h3>📚 Frameworks, Platforms and Libraries</h3>
           <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green">
           <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
           <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
@@ -121,7 +121,7 @@
           <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
           <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
           <br/>
-                  <h3>🎋 ORM</h3>
+          <h3>🎋 ORM</h3>
           <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
           <br/>
       </div>
