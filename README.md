@@ -113,7 +113,7 @@
 <br/>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Statistics </h2> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseung-lee&count_private=true&show_icons=true&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseung-lee&layout=compact&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseung-lee&count_private=true&show_icons=true&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseung-lee&layout=compact&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2&hide=jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
